@@ -5,4 +5,8 @@ sites/*/settings*.php
 sites/*/files
 sites/*/private
 
+# Ignore translations files
+sites/all/translations
+
+# Ignore htaccess file
 .htaccess
